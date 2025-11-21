@@ -38,8 +38,8 @@ while(1)
 ```
 
 ## Output :
-<img width="1236" height="716" alt="image" src="https://github.com/user-attachments/assets/2012347e-36e0-4391-b7ed-6d64a5be5456" />
 
+<img width="1813" height="965" alt="image" src="https://github.com/user-attachments/assets/5f741d07-7e1b-4f35-9d4f-2ae27c7ec6b2" />
 
 ## Result :  
 Thus interfacing LCD using 8051 microcontroller is executed successfully.
